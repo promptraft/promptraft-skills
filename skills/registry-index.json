@@ -1,0 +1,1302 @@
+{
+  "generated_at": "2026-03-27T05:37:50.235Z",
+  "total": 108,
+  "skills": [
+    {
+      "id": "WEB-001",
+      "slug": "ui-component-builder",
+      "name": "UI Component Builder",
+      "domain": "Web Development",
+      "type": "Generative",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "generative"
+      ]
+    },
+    {
+      "id": "WEB-002",
+      "slug": "rest-api-designer",
+      "name": "REST API Designer",
+      "domain": "Web Development",
+      "type": "Analytical",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "analytical"
+      ]
+    },
+    {
+      "id": "WEB-003",
+      "slug": "graphql-schema-architect",
+      "name": "GraphQL Schema Architect",
+      "domain": "Web Development",
+      "type": "Agentic",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "agentic"
+      ]
+    },
+    {
+      "id": "WEB-004",
+      "slug": "authentication-flow-builder",
+      "name": "Authentication Flow Builder",
+      "domain": "Web Development",
+      "type": "Conversational",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "conversational"
+      ]
+    },
+    {
+      "id": "WEB-005",
+      "slug": "react-state-manager",
+      "name": "React State Manager",
+      "domain": "Web Development",
+      "type": "Transformative",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "transformative"
+      ]
+    },
+    {
+      "id": "WEB-006",
+      "slug": "nextjs-page-generator",
+      "name": "Next.js Page Generator",
+      "domain": "Web Development",
+      "type": "Generative",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "generative"
+      ]
+    },
+    {
+      "id": "WEB-007",
+      "slug": "css-animation-creator",
+      "name": "CSS Animation Creator",
+      "domain": "Web Development",
+      "type": "Analytical",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "analytical"
+      ]
+    },
+    {
+      "id": "WEB-008",
+      "slug": "form-validator",
+      "name": "Form Validator",
+      "domain": "Web Development",
+      "type": "Agentic",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "agentic"
+      ]
+    },
+    {
+      "id": "WEB-009",
+      "slug": "websocket-handler",
+      "name": "WebSocket Handler",
+      "domain": "Web Development",
+      "type": "Conversational",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "conversational"
+      ]
+    },
+    {
+      "id": "WEB-010",
+      "slug": "pwa-builder",
+      "name": "PWA Builder",
+      "domain": "Web Development",
+      "type": "Transformative",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "transformative"
+      ]
+    },
+    {
+      "id": "WEB-011",
+      "slug": "seo-optimizer",
+      "name": "SEO Optimizer",
+      "domain": "Web Development",
+      "type": "Generative",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "generative"
+      ]
+    },
+    {
+      "id": "WEB-012",
+      "slug": "accessibility-auditor",
+      "name": "Accessibility Auditor",
+      "domain": "Web Development",
+      "type": "Analytical",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "analytical"
+      ]
+    },
+    {
+      "id": "WEB-013",
+      "slug": "performance-profiler",
+      "name": "Performance Profiler",
+      "domain": "Web Development",
+      "type": "Agentic",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "agentic"
+      ]
+    },
+    {
+      "id": "WEB-014",
+      "slug": "bundle-analyzer",
+      "name": "Bundle Analyzer",
+      "domain": "Web Development",
+      "type": "Conversational",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "conversational"
+      ]
+    },
+    {
+      "id": "WEB-015",
+      "slug": "api-mock-generator",
+      "name": "API Mock Generator",
+      "domain": "Web Development",
+      "type": "Transformative",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "transformative"
+      ]
+    },
+    {
+      "id": "WEB-016",
+      "slug": "jwt-token-manager",
+      "name": "JWT Token Manager",
+      "domain": "Web Development",
+      "type": "Generative",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "generative"
+      ]
+    },
+    {
+      "id": "WEB-017",
+      "slug": "oauth-flow-designer",
+      "name": "OAuth Flow Designer",
+      "domain": "Web Development",
+      "type": "Analytical",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "analytical"
+      ]
+    },
+    {
+      "id": "WEB-018",
+      "slug": "database-query-builder",
+      "name": "Database Query Builder",
+      "domain": "Web Development",
+      "type": "Agentic",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "agentic"
+      ]
+    },
+    {
+      "id": "WEB-019",
+      "slug": "migration-script-writer",
+      "name": "Migration Script Writer",
+      "domain": "Web Development",
+      "type": "Conversational",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "conversational"
+      ]
+    },
+    {
+      "id": "WEB-020",
+      "slug": "cache-strategy-planner",
+      "name": "Cache Strategy Planner",
+      "domain": "Web Development",
+      "type": "Transformative",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "transformative"
+      ]
+    },
+    {
+      "id": "WEB-021",
+      "slug": "error-boundary-designer",
+      "name": "Error Boundary Designer",
+      "domain": "Web Development",
+      "type": "Generative",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "generative"
+      ]
+    },
+    {
+      "id": "WEB-022",
+      "slug": "lazy-loading-optimizer",
+      "name": "Lazy Loading Optimizer",
+      "domain": "Web Development",
+      "type": "Analytical",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "analytical"
+      ]
+    },
+    {
+      "id": "WEB-023",
+      "slug": "image-optimizer",
+      "name": "Image Optimizer",
+      "domain": "Web Development",
+      "type": "Agentic",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "agentic"
+      ]
+    },
+    {
+      "id": "WEB-024",
+      "slug": "cdn-config-generator",
+      "name": "CDN Config Generator",
+      "domain": "Web Development",
+      "type": "Conversational",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "conversational"
+      ]
+    },
+    {
+      "id": "WEB-025",
+      "slug": "cicd-pipeline-builder",
+      "name": "CI/CD Pipeline Builder",
+      "domain": "Web Development",
+      "type": "Transformative",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "transformative"
+      ]
+    },
+    {
+      "id": "WEB-026",
+      "slug": "docker-compose-generator",
+      "name": "Docker Compose Generator",
+      "domain": "Web Development",
+      "type": "Generative",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "generative"
+      ]
+    },
+    {
+      "id": "WEB-027",
+      "slug": "nginx-config-writer",
+      "name": "Nginx Config Writer",
+      "domain": "Web Development",
+      "type": "Analytical",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "analytical"
+      ]
+    },
+    {
+      "id": "WEB-028",
+      "slug": "ssl-certificate-manager",
+      "name": "SSL Certificate Manager",
+      "domain": "Web Development",
+      "type": "Agentic",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "agentic"
+      ]
+    },
+    {
+      "id": "WEB-029",
+      "slug": "environment-variable-manager",
+      "name": "Environment Variable Manager",
+      "domain": "Web Development",
+      "type": "Conversational",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "conversational"
+      ]
+    },
+    {
+      "id": "WEB-030",
+      "slug": "monorepo-structurer",
+      "name": "Monorepo Structurer",
+      "domain": "Web Development",
+      "type": "Transformative",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "transformative"
+      ]
+    },
+    {
+      "id": "WEB-031",
+      "slug": "micro-frontend-orchestrator",
+      "name": "Micro-frontend Orchestrator",
+      "domain": "Web Development",
+      "type": "Generative",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "generative"
+      ]
+    },
+    {
+      "id": "WEB-032",
+      "slug": "design-token-generator",
+      "name": "Design Token Generator",
+      "domain": "Web Development",
+      "type": "Analytical",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "analytical"
+      ]
+    },
+    {
+      "id": "WEB-033",
+      "slug": "storybook-component-doc",
+      "name": "Storybook Component Doc",
+      "domain": "Web Development",
+      "type": "Agentic",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "agentic"
+      ]
+    },
+    {
+      "id": "WEB-034",
+      "slug": "unit-test-generator",
+      "name": "Unit Test Generator",
+      "domain": "Web Development",
+      "type": "Conversational",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "conversational"
+      ]
+    },
+    {
+      "id": "WEB-035",
+      "slug": "e2e-test-script-writer",
+      "name": "E2E Test Script Writer",
+      "domain": "Web Development",
+      "type": "Transformative",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "transformative"
+      ]
+    },
+    {
+      "id": "WEB-036",
+      "slug": "api-rate-limiter",
+      "name": "API Rate Limiter",
+      "domain": "Web Development",
+      "type": "Generative",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "generative"
+      ]
+    },
+    {
+      "id": "WEB-037",
+      "slug": "webhook-handler",
+      "name": "Webhook Handler",
+      "domain": "Web Development",
+      "type": "Analytical",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "analytical"
+      ]
+    },
+    {
+      "id": "WEB-038",
+      "slug": "file-upload-manager",
+      "name": "File Upload Manager",
+      "domain": "Web Development",
+      "type": "Agentic",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "agentic"
+      ]
+    },
+    {
+      "id": "WEB-039",
+      "slug": "search-implementation",
+      "name": "Search Implementation",
+      "domain": "Web Development",
+      "type": "Conversational",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "conversational"
+      ]
+    },
+    {
+      "id": "WEB-040",
+      "slug": "pagination-logic-builder",
+      "name": "Pagination Logic Builder",
+      "domain": "Web Development",
+      "type": "Transformative",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "transformative"
+      ]
+    },
+    {
+      "id": "WEB-041",
+      "slug": "role-based-access-controller",
+      "name": "Role-Based Access Controller",
+      "domain": "Web Development",
+      "type": "Generative",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "generative"
+      ]
+    },
+    {
+      "id": "WEB-042",
+      "slug": "multi-tenancy-architect",
+      "name": "Multi-tenancy Architect",
+      "domain": "Web Development",
+      "type": "Analytical",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "analytical"
+      ]
+    },
+    {
+      "id": "WEB-043",
+      "slug": "localization-manager",
+      "name": "Localization Manager",
+      "domain": "Web Development",
+      "type": "Agentic",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "agentic"
+      ]
+    },
+    {
+      "id": "WEB-044",
+      "slug": "dark-mode-toggler",
+      "name": "Dark Mode Toggler",
+      "domain": "Web Development",
+      "type": "Conversational",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "conversational"
+      ]
+    },
+    {
+      "id": "WEB-045",
+      "slug": "real-time-notification-system",
+      "name": "Real-time Notification System",
+      "domain": "Web Development",
+      "type": "Transformative",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "transformative"
+      ]
+    },
+    {
+      "id": "WEB-046",
+      "slug": "analytics-integration",
+      "name": "Analytics Integration",
+      "domain": "Web Development",
+      "type": "Generative",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "generative"
+      ]
+    },
+    {
+      "id": "WEB-047",
+      "slug": "ab-test-framework",
+      "name": "A/B Test Framework",
+      "domain": "Web Development",
+      "type": "Analytical",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "analytical"
+      ]
+    },
+    {
+      "id": "WEB-048",
+      "slug": "feature-flag-manager",
+      "name": "Feature Flag Manager",
+      "domain": "Web Development",
+      "type": "Agentic",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "agentic"
+      ]
+    },
+    {
+      "id": "WEB-049",
+      "slug": "changelog-generator",
+      "name": "Changelog Generator",
+      "domain": "Web Development",
+      "type": "Conversational",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "conversational"
+      ]
+    },
+    {
+      "id": "WEB-050",
+      "slug": "code-review-assistant",
+      "name": "Code Review Assistant",
+      "domain": "Web Development",
+      "type": "Transformative",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "transformative"
+      ]
+    },
+    {
+      "id": "WEB-051",
+      "slug": "dependency-auditor",
+      "name": "Dependency Auditor",
+      "domain": "Web Development",
+      "type": "Generative",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "generative"
+      ]
+    },
+    {
+      "id": "WEB-052",
+      "slug": "type-definition-generator",
+      "name": "Type Definition Generator",
+      "domain": "Web Development",
+      "type": "Analytical",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "analytical"
+      ]
+    },
+    {
+      "id": "WEB-053",
+      "slug": "openapi-spec-writer",
+      "name": "OpenAPI Spec Writer",
+      "domain": "Web Development",
+      "type": "Agentic",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "agentic"
+      ]
+    },
+    {
+      "id": "WEB-054",
+      "slug": "sdk-generator",
+      "name": "SDK Generator",
+      "domain": "Web Development",
+      "type": "Conversational",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "conversational"
+      ]
+    },
+    {
+      "id": "WEB-055",
+      "slug": "cli-tool-builder",
+      "name": "CLI Tool Builder",
+      "domain": "Web Development",
+      "type": "Transformative",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "transformative"
+      ]
+    },
+    {
+      "id": "WEB-056",
+      "slug": "browser-extension-scaffold",
+      "name": "Browser Extension Scaffold",
+      "domain": "Web Development",
+      "type": "Generative",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "generative"
+      ]
+    },
+    {
+      "id": "WEB-057",
+      "slug": "web-scraper-builder",
+      "name": "Web Scraper Builder",
+      "domain": "Web Development",
+      "type": "Analytical",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "analytical"
+      ]
+    },
+    {
+      "id": "WEB-058",
+      "slug": "data-table-component",
+      "name": "Data Table Component",
+      "domain": "Web Development",
+      "type": "Agentic",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "agentic"
+      ]
+    },
+    {
+      "id": "WEB-059",
+      "slug": "chart-integration-specialist",
+      "name": "Chart Integration Specialist",
+      "domain": "Web Development",
+      "type": "Conversational",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "conversational"
+      ]
+    },
+    {
+      "id": "WEB-060",
+      "slug": "map-integration-builder",
+      "name": "Map Integration Builder",
+      "domain": "Web Development",
+      "type": "Transformative",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "transformative"
+      ]
+    },
+    {
+      "id": "WEB-061",
+      "slug": "payment-gateway-integrator",
+      "name": "Payment Gateway Integrator",
+      "domain": "Web Development",
+      "type": "Generative",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "generative"
+      ]
+    },
+    {
+      "id": "WEB-062",
+      "slug": "email-template-builder",
+      "name": "Email Template Builder",
+      "domain": "Web Development",
+      "type": "Analytical",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "analytical"
+      ]
+    },
+    {
+      "id": "WEB-063",
+      "slug": "pdf-generator",
+      "name": "PDF Generator",
+      "domain": "Web Development",
+      "type": "Agentic",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "agentic"
+      ]
+    },
+    {
+      "id": "WEB-064",
+      "slug": "csv-exporter",
+      "name": "CSV Exporter",
+      "domain": "Web Development",
+      "type": "Conversational",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "conversational"
+      ]
+    },
+    {
+      "id": "WEB-065",
+      "slug": "drag-and-drop-interface",
+      "name": "Drag-and-Drop Interface",
+      "domain": "Web Development",
+      "type": "Transformative",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "transformative"
+      ]
+    },
+    {
+      "id": "WEB-066",
+      "slug": "infinite-scroll-implementer",
+      "name": "Infinite Scroll Implementer",
+      "domain": "Web Development",
+      "type": "Generative",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "generative"
+      ]
+    },
+    {
+      "id": "WEB-067",
+      "slug": "rich-text-editor-integrator",
+      "name": "Rich Text Editor Integrator",
+      "domain": "Web Development",
+      "type": "Analytical",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "analytical"
+      ]
+    },
+    {
+      "id": "WEB-068",
+      "slug": "video-player-component",
+      "name": "Video Player Component",
+      "domain": "Web Development",
+      "type": "Agentic",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "agentic"
+      ]
+    },
+    {
+      "id": "WEB-069",
+      "slug": "audio-player-component",
+      "name": "Audio Player Component",
+      "domain": "Web Development",
+      "type": "Conversational",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "conversational"
+      ]
+    },
+    {
+      "id": "WEB-070",
+      "slug": "3d-scene-builder",
+      "name": "3D Scene Builder",
+      "domain": "Web Development",
+      "type": "Transformative",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "transformative"
+      ]
+    },
+    {
+      "id": "WEB-071",
+      "slug": "arvr-web-experience",
+      "name": "AR/VR Web Experience",
+      "domain": "Web Development",
+      "type": "Generative",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "generative"
+      ]
+    },
+    {
+      "id": "WEB-072",
+      "slug": "canvas-drawing-tool",
+      "name": "Canvas Drawing Tool",
+      "domain": "Web Development",
+      "type": "Analytical",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "analytical"
+      ]
+    },
+    {
+      "id": "WEB-073",
+      "slug": "svg-generator",
+      "name": "SVG Generator",
+      "domain": "Web Development",
+      "type": "Agentic",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "agentic"
+      ]
+    },
+    {
+      "id": "WEB-074",
+      "slug": "animation-timeline-builder",
+      "name": "Animation Timeline Builder",
+      "domain": "Web Development",
+      "type": "Conversational",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "conversational"
+      ]
+    },
+    {
+      "id": "WEB-075",
+      "slug": "scroll-animation-designer",
+      "name": "Scroll Animation Designer",
+      "domain": "Web Development",
+      "type": "Transformative",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "transformative"
+      ]
+    },
+    {
+      "id": "WEB-076",
+      "slug": "parallax-effect-builder",
+      "name": "Parallax Effect Builder",
+      "domain": "Web Development",
+      "type": "Generative",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "generative"
+      ]
+    },
+    {
+      "id": "WEB-077",
+      "slug": "modaldialog-manager",
+      "name": "Modal/Dialog Manager",
+      "domain": "Web Development",
+      "type": "Analytical",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "analytical"
+      ]
+    },
+    {
+      "id": "WEB-078",
+      "slug": "toast-notification-builder",
+      "name": "Toast Notification Builder",
+      "domain": "Web Development",
+      "type": "Agentic",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "agentic"
+      ]
+    },
+    {
+      "id": "WEB-079",
+      "slug": "tooltip-component",
+      "name": "Tooltip Component",
+      "domain": "Web Development",
+      "type": "Conversational",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "conversational"
+      ]
+    },
+    {
+      "id": "WEB-080",
+      "slug": "date-picker-builder",
+      "name": "Date Picker Builder",
+      "domain": "Web Development",
+      "type": "Transformative",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "transformative"
+      ]
+    },
+    {
+      "id": "WEB-081",
+      "slug": "color-picker-component",
+      "name": "Color Picker Component",
+      "domain": "Web Development",
+      "type": "Generative",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "generative"
+      ]
+    },
+    {
+      "id": "WEB-082",
+      "slug": "file-tree-navigator",
+      "name": "File Tree Navigator",
+      "domain": "Web Development",
+      "type": "Analytical",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "analytical"
+      ]
+    },
+    {
+      "id": "WEB-083",
+      "slug": "code-editor-embedder",
+      "name": "Code Editor Embedder",
+      "domain": "Web Development",
+      "type": "Agentic",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "agentic"
+      ]
+    },
+    {
+      "id": "WEB-084",
+      "slug": "markdown-renderer",
+      "name": "Markdown Renderer",
+      "domain": "Web Development",
+      "type": "Conversational",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "conversational"
+      ]
+    },
+    {
+      "id": "WEB-085",
+      "slug": "schema-validator",
+      "name": "Schema Validator",
+      "domain": "Web Development",
+      "type": "Transformative",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "transformative"
+      ]
+    },
+    {
+      "id": "WEB-086",
+      "slug": "state-machine-designer",
+      "name": "State Machine Designer",
+      "domain": "Web Development",
+      "type": "Generative",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "generative"
+      ]
+    },
+    {
+      "id": "WEB-087",
+      "slug": "event-bus-architect",
+      "name": "Event Bus Architect",
+      "domain": "Web Development",
+      "type": "Analytical",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "analytical"
+      ]
+    },
+    {
+      "id": "WEB-088",
+      "slug": "plugin-system-designer",
+      "name": "Plugin System Designer",
+      "domain": "Web Development",
+      "type": "Agentic",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "agentic"
+      ]
+    },
+    {
+      "id": "WEB-089",
+      "slug": "theme-generator",
+      "name": "Theme Generator",
+      "domain": "Web Development",
+      "type": "Conversational",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "conversational"
+      ]
+    },
+    {
+      "id": "WEB-090",
+      "slug": "icon-system-manager",
+      "name": "Icon System Manager",
+      "domain": "Web Development",
+      "type": "Transformative",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "transformative"
+      ]
+    },
+    {
+      "id": "WEB-091",
+      "slug": "font-loader",
+      "name": "Font Loader",
+      "domain": "Web Development",
+      "type": "Generative",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "generative"
+      ]
+    },
+    {
+      "id": "WEB-092",
+      "slug": "grid-system-builder",
+      "name": "Grid System Builder",
+      "domain": "Web Development",
+      "type": "Analytical",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "analytical"
+      ]
+    },
+    {
+      "id": "WEB-093",
+      "slug": "responsive-breakpoint-manager",
+      "name": "Responsive Breakpoint Manager",
+      "domain": "Web Development",
+      "type": "Agentic",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "agentic"
+      ]
+    },
+    {
+      "id": "WEB-094",
+      "slug": "print-style-generator",
+      "name": "Print Style Generator",
+      "domain": "Web Development",
+      "type": "Conversational",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "conversational"
+      ]
+    },
+    {
+      "id": "WEB-095",
+      "slug": "web-component-creator",
+      "name": "Web Component Creator",
+      "domain": "Web Development",
+      "type": "Transformative",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "transformative"
+      ]
+    },
+    {
+      "id": "WEB-096",
+      "slug": "shadow-dom-manager",
+      "name": "Shadow DOM Manager",
+      "domain": "Web Development",
+      "type": "Generative",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "generative"
+      ]
+    },
+    {
+      "id": "WEB-097",
+      "slug": "service-worker-registrar",
+      "name": "Service Worker Registrar",
+      "domain": "Web Development",
+      "type": "Analytical",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "analytical"
+      ]
+    },
+    {
+      "id": "WEB-098",
+      "slug": "indexeddb-manager",
+      "name": "IndexedDB Manager",
+      "domain": "Web Development",
+      "type": "Agentic",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "agentic"
+      ]
+    },
+    {
+      "id": "WEB-099",
+      "slug": "web-crypto-handler",
+      "name": "Web Crypto Handler",
+      "domain": "Web Development",
+      "type": "Conversational",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "conversational"
+      ]
+    },
+    {
+      "id": "WEB-100",
+      "slug": "geolocation-wrapper",
+      "name": "Geolocation Wrapper",
+      "domain": "Web Development",
+      "type": "Transformative",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "transformative"
+      ]
+    },
+    {
+      "id": "WEB-101",
+      "slug": "clipboard-manager",
+      "name": "Clipboard Manager",
+      "domain": "Web Development",
+      "type": "Generative",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "generative"
+      ]
+    },
+    {
+      "id": "WEB-102",
+      "slug": "notification-permission-handler",
+      "name": "Notification Permission Handler",
+      "domain": "Web Development",
+      "type": "Analytical",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "analytical"
+      ]
+    },
+    {
+      "id": "WEB-103",
+      "slug": "speech-recognition-wrapper",
+      "name": "Speech Recognition Wrapper",
+      "domain": "Web Development",
+      "type": "Agentic",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "agentic"
+      ]
+    },
+    {
+      "id": "WEB-104",
+      "slug": "web-bluetooth-handler",
+      "name": "Web Bluetooth Handler",
+      "domain": "Web Development",
+      "type": "Conversational",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "conversational"
+      ]
+    },
+    {
+      "id": "WEB-105",
+      "slug": "webrtc-session-manager",
+      "name": "WebRTC Session Manager",
+      "domain": "Web Development",
+      "type": "Transformative",
+      "difficulty": "Beginner",
+      "tags": [
+        "web-development",
+        "transformative"
+      ]
+    },
+    {
+      "id": "WEB-106",
+      "slug": "media-query-manager",
+      "name": "Media Query Manager",
+      "domain": "Web Development",
+      "type": "Generative",
+      "difficulty": "Intermediate",
+      "tags": [
+        "web-development",
+        "generative"
+      ]
+    },
+    {
+      "id": "WEB-107",
+      "slug": "intersection-observer-wrapper",
+      "name": "Intersection Observer Wrapper",
+      "domain": "Web Development",
+      "type": "Analytical",
+      "difficulty": "Advanced",
+      "tags": [
+        "web-development",
+        "analytical"
+      ]
+    },
+    {
+      "id": "WEB-108",
+      "slug": "mutationobserver-handler",
+      "name": "MutationObserver Handler",
+      "domain": "Web Development",
+      "type": "Agentic",
+      "difficulty": "Expert",
+      "tags": [
+        "web-development",
+        "agentic"
+      ]
+    }
+  ]
+}

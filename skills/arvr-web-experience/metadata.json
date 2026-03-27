@@ -1,0 +1,52 @@
+{
+  "id": "WEB-071",
+  "slug": "arvr-web-experience",
+  "name": "AR/VR Web Experience",
+  "domain": "Web Development",
+  "version": "1.0.0",
+  "difficulty": "Advanced",
+  "type": "Generative",
+  "reasoning": "Reflexion",
+  "output_format": "Code Block",
+  "exec_time": "5–10s",
+  "enabled": true,
+  "generated_at": "2026-03-27T05:37:50.191Z",
+  "generated_by": "mass-generate-skills.js v2.0.0",
+  "pipeline": {
+    "input_types": [
+      "text",
+      "json",
+      "url",
+      "file"
+    ],
+    "tools": {
+      "primary": "Supabase",
+      "secondary": "Stripe API"
+    },
+    "knowledge_source": "User History (Redis)"
+  },
+  "config": {
+    "confidence_threshold": 0.75,
+    "max_retries": 2,
+    "timeout_seconds": 10,
+    "memory_write_back": true,
+    "personalization_level": "user",
+    "rate_limit_rps": 10,
+    "token_budget_per_user": 50000
+  },
+  "quality": {
+    "checks": "DOM isolation check · Core Web Vitals (LCP<2.5s, CLS<0.1, INP<200ms) · ESLint AirBnB ruleset · Accessibility WCAG 2.2 AA · XSS/CSRF surface scan",
+    "tone": "Technical",
+    "freshness": "Real-time",
+    "follow_ups": [
+      "Run Lighthouse audit on the generated component",
+      "Generate unit tests with Vitest / React Testing Library",
+      "Create Storybook story with all interactive variants"
+    ]
+  },
+  "tags": [
+    "web-development",
+    "generative",
+    "advanced"
+  ]
+}

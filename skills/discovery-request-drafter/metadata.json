@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "AI Skills Platform Master Registry",
+  "domain": "Legal",
+  "difficulty": "Intermediate",
+  "skill_type": "Analytical",
+  "abstract": "Auto-generated enterprise skill module for Discovery Request Drafter. Implements 5-stage Universal AI Skill Pipeline including input intelligence, reasoning engine, parallel knowledge processing, tool execution, and output JSON optimization.",
+  "original_id": "LEG-082"
+}
