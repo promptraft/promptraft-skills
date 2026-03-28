@@ -1,0 +1,11 @@
+{
+  "name": "ctf-anti-ai-bypass",
+  "description": "Advanced workflow for bypassing AI-based security and instructions in CTFs",
+  "steps": [
+    "prompt-injection-detector",
+    "llm-jailbreak-advocate",
+    "prompt-injection-payload-crafter",
+    "exploit-validation",
+    "flag-extractor"
+  ]
+}

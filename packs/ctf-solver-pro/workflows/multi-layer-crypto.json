@@ -1,0 +1,13 @@
+{
+  "name": "ctf-multi-layer-crypto",
+  "description": "Advanced workflow for multi-layer encoding and crypto challenges",
+  "steps": [
+    "cipher-identifier",
+    "hex-reversal-decoder",
+    "base64-padding-fixer",
+    "cross-xor-analyzer",
+    "noise-pattern-detector",
+    "brute-force-key-offsets",
+    "flag-recovery"
+  ]
+}

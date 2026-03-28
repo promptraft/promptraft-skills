@@ -34,6 +34,13 @@ A structured, professional-grade framework for solving Capture The Flag (CTF) ch
 - **Step 3**: `xss-sql-injection-detector` suggests polyglot or encoding bypasses.
 - **Step 4**: `exploit-validation` provides a structured reasoning for the bypass.
 
+## Features
+
+- **7 Specialist Categories**: Web, Crypto, Pwn, Reversing, Forensics, OSINT, and Anti-AI.
+- **Automated Decoding Scripts**: Internal Python hooks for CyberChef-style chaining and XOR brute-forcing.
+- **Anti-AI Bypass**: Specialized techniques to neutralize LLM-based security guards and delimiter blocks.
+- **High-Precision Skills**: 40+ atomic skills using advanced prompt engineering for deterministic solving.
+
 ## Outcome
 By using this pack, users can:
 - Systematically approach unknown or complex challenges.

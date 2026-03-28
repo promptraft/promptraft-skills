@@ -6,6 +6,7 @@
     "encoding-decoder",
     "frequency-analyzer",
     "known-plaintext-analyzer",
+    "brute-force-key-offsets",
     "crypto-weakness-detector",
     "flag-recovery"
   ]

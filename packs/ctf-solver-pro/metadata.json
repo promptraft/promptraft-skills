@@ -12,6 +12,8 @@
     "ctf-reversing",
     "ctf-pwn",
     "ctf-forensics",
-    "ctf-osint"
+    "ctf-osint",
+    "ctf-multi-layer-crypto",
+    "ctf-anti-ai-bypass"
   ]
 }
