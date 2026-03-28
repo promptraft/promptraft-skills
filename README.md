@@ -9,7 +9,7 @@
   [![Version](https://img.shields.io/badge/version-1.0.3-blueviolet?style=for-the-badge)](https://github.com/skilloai/agent-skills)
   [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
   [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
-  [![Built For](https://img.shields.io/badge/Built%20For-Cursor%20%7C%20Windsurf-blue?style=for-the-badge)](https://cursor.com)
+  [![Built For](https://img.shields.io/badge/Supports-All%20AI%20Agents-blue?style=for-the-badge)](https://skilloai.com)
 
   [Explore Skills](skills/) • [Discover Packs](packs/) • [Run Workflows](workflows/) • [Documentation](docs/)
 </div>
@@ -21,7 +21,7 @@
 - **🎯 2,600+ Specialized Skills**: Expert instructions for every technical domain imaginable.
 - **📦 25 Curated Skill Packs**: Goal-driven collections (e.g., "SaaS Builder", "Security Auditor").
 - **⚡ 50 Autonomous Workflows**: Staggered execution plans for complex engineering tasks.
-- **🧠 Native AI Unification**: Powered by the `.agent` directory, understood natively by Cursor & Windsurf.
+- **🧠 Native AI Unification**: Powered by the `.agent` directory, understood natively by all major AI tools.
 - **🚀 MCP Ready**: Full support for the Model Context Protocol (MCP) to extend AI with live tools.
 
 ---
@@ -49,7 +49,7 @@ npx -y skilloai init
 
 ## 📂 Structure: The `.agent` Directory
 
-SkilloAI uses the `.agent/` directory as its unified runtime. This folder is automatically detected by modern AI-native IDEs.
+SkilloAI uses the `.agent/` directory as its unified runtime. This folder is the standard for modern AI-native development.
 
 ```bash
 .agent/
@@ -61,7 +61,15 @@ SkilloAI uses the `.agent/` directory as its unified runtime. This folder is aut
 
 ---
 
-## 🛠️ Integrated Ecosystem
+## 🛠️ Universal AI Integration
+
+SkilloAI is designed to be the "Expert Engine" for **every** modern AI development tool.
+
+### 🤖 Supported Agents & IDEs
+- **CLI Agents**: Antigravity, Claude Code, Aider, Mentat.
+- **AI-Native IDEs**: Cursor, Windsurf, PearAI.
+- **VS Code Extensions**: Cline, Roo Code, GitHub Copilot (via file context).
+- **Custom Agents**: Any system that can read markdown-based expert skills.
 
 ### 🔌 Running MCP Servers
 SkilloAI supports **Model Context Protocol** servers to give your AI real-time tool access.
@@ -73,9 +81,6 @@ npx -y @modelcontextprotocol/server-everything
 # Or run via SkilloAI CLI for integrated reasoning
 skilloai run "use the sqlite mcp to analyze user data"
 ```
-
-### 💻 IDE Integration (Cursor / Windsurf)
-SkilloAI is designed to be the "Expert Engine" for your IDE. Once initialized, your AI assistant will automatically leverage the skills in the `.agent` directory to provide high-precision assistance.
 
 ---
 
