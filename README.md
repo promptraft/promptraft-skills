@@ -50,6 +50,44 @@ The AI loads that skill's knowledge and helps you with specialized expertise!
 
 ---
 
+## 🚀 Running MCP Servers
+
+SkilloAI content can be extended with **Model Context Protocol (MCP)** servers to give your AI real-time tools and data access.
+
+### 1. Standalone Execution
+Most MCP servers in this ecosystem can be run directly using `npx` (for Node.js) or `uv` (for Python):
+
+```bash
+# Node.js MCP Server
+npx -y @modelcontextprotocol/server-everything
+
+# Python MCP Server
+uvx mcp-server-sqlite
+```
+
+### 2. CLI Integration
+You can use the SkilloAI CLI to manage and interact with these servers:
+
+```bash
+skilloai run "use the sqlite mcp to list tables"
+```
+
+### 3. IDE Integration (Claude Desktop/Cursor)
+To use MCP servers in your favorite IDE, add them to your `claude_desktop_config.json`:
+
+```json
+{
+  "mcpServers": {
+    "my-server": {
+      "command": "npx",
+      "args": ["-y", "@username/my-mcp-server"]
+    }
+  }
+}
+```
+
+---
+
 ## Skill Categories
 
 ### Creative & Design
