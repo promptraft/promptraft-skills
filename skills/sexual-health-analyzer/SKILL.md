@@ -2,7 +2,7 @@
 name: sexual-health-analyzer
 description: Sexual Health Analyzer
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 ---
 
 # 性健康分析技能

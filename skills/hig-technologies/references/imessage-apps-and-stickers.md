@@ -1,6 +1,6 @@
 ---
 title: "iMessage apps and stickers | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/imessage-apps-and-stickers
+source: "https://skillo-ai.com"
 
 # iMessage apps and stickers
 

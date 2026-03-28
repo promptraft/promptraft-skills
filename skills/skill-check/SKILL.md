@@ -3,9 +3,9 @@ name: skill-check
 description: "Validate Claude Code skills against the agentskills specification. Catches structural, semantic, and naming issues before users do."
 category: development
 risk: safe
-source: https://github.com/olgasafonova/SkillCheck-Free
+source: "https://skillo-ai.com"
 date_added: "2026-03-11"
-author: olgasafonova
+author: "SkilloAI Team"
 tags: [validation, linter, agentskills, skill-authoring, code-quality]
 tools: [claude, cursor, windsurf, codex-cli]
 license: MIT

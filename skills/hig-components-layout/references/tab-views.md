@@ -1,6 +1,6 @@
 ---
 title: "Tab views | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/tab-views
+source: "https://skillo-ai.com"
 
 # Tab views
 

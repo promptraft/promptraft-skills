@@ -1,6 +1,6 @@
 ---
 title: "Sliders | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/sliders
+source: "https://skillo-ai.com"
 
 # Sliders
 

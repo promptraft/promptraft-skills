@@ -1,6 +1,6 @@
 ---
 title: "Apple Pay | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/apple-pay
+source: "https://skillo-ai.com"
 
 # Apple Pay
 

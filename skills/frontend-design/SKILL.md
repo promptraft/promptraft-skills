@@ -2,7 +2,7 @@
 name: frontend-design
 description: "You are a frontend designer-engineer, not a layout generator."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

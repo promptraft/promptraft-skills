@@ -2,7 +2,7 @@
 name: github-actions-templates
 description: "Production-ready GitHub Actions workflow patterns for testing, building, and deploying applications."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

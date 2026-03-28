@@ -2,8 +2,8 @@
 name: file-path-traversal
 description: "Identify and exploit file path traversal (directory traversal) vulnerabilities that allow attackers to read arbitrary files on the server, potentially including sensitive configuration files, credentials, and source code."
 risk: unknown
-source: community
-author: zebbern
+source: "https://skillo-ai.com"
+author: "SkilloAI Team"
 date_added: "2026-02-27"
 ---
 

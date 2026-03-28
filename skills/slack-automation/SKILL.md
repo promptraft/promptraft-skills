@@ -2,7 +2,7 @@
 name: slack-automation
 description: "Automate Slack workspace operations including messaging, search, channel management, and reaction workflows through Composio's Slack toolkit."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

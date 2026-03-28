@@ -2,7 +2,7 @@
 name: web3-testing
 description: "Master comprehensive testing strategies for smart contracts using Hardhat, Foundry, and advanced testing patterns."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

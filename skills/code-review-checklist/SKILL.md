@@ -2,7 +2,7 @@
 name: code-review-checklist
 description: "Comprehensive checklist for conducting thorough code reviews covering functionality, security, performance, and maintainability"
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

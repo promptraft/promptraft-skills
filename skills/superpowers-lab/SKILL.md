@@ -2,7 +2,7 @@
 name: superpowers-lab
 description: "Lab environment for Claude superpowers"
 risk: safe
-source: "https://github.com/obra/superpowers-lab"
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

@@ -2,7 +2,7 @@
 name: distributed-tracing
 description: "Implement distributed tracing with Jaeger and Tempo for request flow visibility across microservices."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

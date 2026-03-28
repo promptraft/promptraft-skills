@@ -2,9 +2,9 @@
 name: web-scraper
 description: Web scraping inteligente multi-estrategia. Extrai dados estruturados de paginas web (tabelas, listas, precos). Paginacao, monitoramento e export CSV/JSON.
 risk: safe
-source: community
+source: "https://skillo-ai.com"
 date_added: '2026-03-06'
-author: renat
+author: "SkilloAI Team"
 tags:
 - scraping
 - data-extraction

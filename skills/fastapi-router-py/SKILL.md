@@ -2,7 +2,7 @@
 name: fastapi-router-py
 description: "Create FastAPI routers following established patterns with proper authentication, response models, and HTTP status codes."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

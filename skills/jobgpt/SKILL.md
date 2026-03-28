@@ -2,7 +2,7 @@
 name: jobgpt
 description: "Job search automation, auto apply, resume generation, application tracking, salary intelligence, and recruiter outreach using the JobGPT MCP server."
 risk: safe
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-03-23"
 ---
 

@@ -2,7 +2,7 @@
 name: azure-functions
 description: "Modern .NET execution model with process isolation"
 risk: unknown
-source: "vibeship-spawner-skills (Apache 2.0)"
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

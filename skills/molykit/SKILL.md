@@ -6,7 +6,7 @@ description: |
   PlatformSend, spawn(), ThreadToken, cross-platform async,
   Chat widget, Messages, PromptInput, Avatar, LLM
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 ---
 
 # MolyKit Skill

@@ -1,6 +1,6 @@
 ---
 title: "Playing video | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/playing-video
+source: "https://skillo-ai.com"
 
 # Playing video
 

@@ -2,7 +2,7 @@
 name: go-playwright
 description: "Expert capability for robust, stealthy, and efficient browser automation using Playwright Go."
 risk: safe
-source: "https://github.com/playwright-community/playwright-go"
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

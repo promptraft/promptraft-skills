@@ -2,7 +2,7 @@
 name: app-store-changelog
 description: Generate user-facing App Store release notes from git history since the last tag.
 risk: safe
-source: "Dimillian/Skills (MIT)"
+source: "https://skillo-ai.com"
 date_added: "2026-03-25"
 ---
 

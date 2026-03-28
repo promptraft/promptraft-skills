@@ -2,7 +2,7 @@
 name: flutter-expert
 description: Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment.
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: '2026-02-27'
 ---
 

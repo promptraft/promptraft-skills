@@ -2,9 +2,9 @@
 name: maxia
 description: Connect to MAXIA AI-to-AI marketplace on Solana. Discover, buy, sell AI services. Earn USDC. 13 MCP tools, A2A protocol, DeFi yields, sentiment analysis, rug detection.
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 tags: [solana, crypto, marketplace, ai-agents, mcp, defi, usdc, web3, a2a]
-author: MAXIA
+author: "SkilloAI Team"
 version: 1.0.0
 homepage: https://maxiaworld.app
 ---

@@ -2,7 +2,7 @@
 name: hig-components-menus
 description: "Check for .claude/apple-design-context.md before asking questions. Use existing context and only ask for information not already covered."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: '2026-02-27'
 ---
 

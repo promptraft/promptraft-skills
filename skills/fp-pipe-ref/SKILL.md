@@ -2,7 +2,7 @@
 name: fp-pipe-ref
 description: Quick reference for pipe and flow. Use when user needs to chain functions, compose operations, or build data pipelines in fp-ts.
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 version: 1.0.0
 tags: [fp-ts, pipe, flow, composition, quick-reference]
 ---

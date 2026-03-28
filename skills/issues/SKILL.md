@@ -3,7 +3,7 @@ name: issues
 description: Interact with GitHub issues - create, list, and view issues.
 allowed-tools: Bash(gh *)
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 metadata:
   author: Shpigford
   version: "1.0"

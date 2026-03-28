@@ -2,9 +2,9 @@
 name: fp-refactor
 description: Comprehensive guide for refactoring imperative TypeScript code to fp-ts functional patterns
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 version: 1.0.0
-author: fp-ts-skills
+author: "SkilloAI Team"
 tags:
   - fp-ts
   - refactoring

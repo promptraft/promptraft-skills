@@ -1,6 +1,6 @@
 ---
 title: "Designing for tvOS | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/designing-for-tvos
+source: "https://skillo-ai.com"
 
 # Designing for tvOS
 

@@ -2,7 +2,7 @@
 name: evolution
 description: "This skill enables makepad-skills to self-improve continuously during development."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 ---
 
 <!-- security-allowlist: curl-pipe-bash -->

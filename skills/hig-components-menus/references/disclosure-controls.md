@@ -1,6 +1,6 @@
 ---
 title: "Disclosure controls | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/disclosure-controls
+source: "https://skillo-ai.com"
 
 # Disclosure controls
 

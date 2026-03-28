@@ -14,7 +14,7 @@ allowed-tools:
   - mcp__serena__find_referencing_symbols
   - mcp__serena__get_symbols_overview
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 ---
 
 # zeroize-audit — Claude Skill

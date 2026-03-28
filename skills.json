@@ -1,0 +1,102 @@
+[
+  {
+    "id": "blue-ocean-niche-finder",
+    "name": "Blue Ocean Niche Finder",
+    "description": "Identifies untapped market opportunities and niche segments using competitive whitespace analysis.",
+    "category": "Brainstorming",
+    "tags": ["strategy", "market-gap", "innovation", "entrepreneurship"],
+    "prompt": "Act as a Business Strategist.\n\nGiven [Industry/Product]:\n* Analyze market gaps and competition.\n* Identify a unique, underserved niche.\n* Define the core value proposition.\n\nReturn response in this format:\n* Niche: [Name]\n* Problem: [User Pain Point]\n* Solution: [Unique Approach]\n* Why it works: [Competitive Edge]",
+    "example_input": "Industry: Personal fitness apps. Product: Subscription-based workout tracker.",
+    "example_output": "* Niche: Neuro-Adaptive Fitness for High-Stress Executives\n* Problem: Generic fitness apps neglect the link between neural recovery and cognitive performance.\n* Solution: Movement-based neural recovery integrating HRV biofeedback.\n* Why it works: It shifts the focus from pure physical metrics to executive-level cognitive architecture."
+  },
+  {
+    "id": "viral-content-hook-architect",
+    "name": "Viral Content Hook Architect",
+    "description": "Engineers high-engagement opening lines for technical and professional educational content.",
+    "category": "Brainstorming",
+    "tags": ["marketing", "content-strategy", "linkedin", "creators"],
+    "prompt": "Act as a Social Media Copywriter.\n\nGiven [Topic/Article]:\n* Create 5 high-engagement hooks.\n* Use psychological triggers like curiosity, urgency, or contradiction.\n* Optimize for professional platforms like LinkedIn.\n\nReturn response in this format:\n1. [Hook 1]\n2. [Hook 2]\n3. [Hook 3]\n4. [Hook 4]\n5. [Hook 5]",
+    "example_input": "Topic: Why writing clean code is actually slower in the short term but 10x faster in the long term.",
+    "example_output": "1. I spent 4 hours refactoring a function that already worked. My manager was thrilled.\n2. Is your 'fast' delivery schedule actually a technical debt ticking time bomb?\n3. The most productive developers I know write the least amount of code per hour.\n4. Stop racing to the finish line. You're actually slowing your team down.\n5. Legacy code isn't born; it's written in the name of 'speed' by developers who skip refactoring."
+  },
+  {
+    "id": "serverless-microservices-architect",
+    "name": "Serverless Microservices Architect",
+    "description": "Blueprints event-driven architectures with a focus on cost-efficiency and horizontal scale.",
+    "category": "System Design",
+    "tags": ["cloud", "aws", "serverless", "microservices"],
+    "prompt": "Act as a Cloud Architect.\n\nGiven [System Requirement]:\n* Design an event-driven serverless architecture.\n* Breakdown core components (Lambda, SQS, DB).\n* Outline the logical data flow.\n\nReturn response in this format:\n* Services: [Key Cloud Components]\n* Data Flow: [Step-by-step logic]\n* Scalability Pattern: [How it handles load]\n* Key Benefit: [Primary technical advantage]",
+    "example_input": "System Requirement: A high-volume ticket booking system with massive spikes during flash sales.",
+    "example_output": "* Services: AWS Lambda, SQS, DynamoDB, API Gateway.\n* Data Flow: Request -> API Gateway -> SQS Queue -> Worker Lambda -> DynamoDB.\n* Scalability Pattern: SQS acts as a buffer to level high-traffic spikes without crashing workers.\n* Key Benefit: Decoupled architecture prevents database bottlenecks during peak concurrent users."
+  },
+  {
+    "id": "distributed-system-consistency-expert",
+    "name": "Distributed System Consistency Expert",
+    "description": "Resolves complex CAP theorem trade-offs and synchronization issues in distributed databases.",
+    "category": "System Design",
+    "tags": ["database", "consistency", "distributed-systems", "backend"],
+    "prompt": "Act as a Backend Infrastructure Engineer.\n\nGiven [Application Scenario]:\n* Determine the optimal consistency model (Strong vs Eventual).\n* Propose a strategy to handle data synchronization conflicts.\n* Recommend specific tools or algorithms.\n\nReturn response in this format:\n* Recommended Model: [Consistency Level]\n* Conflict Strategy: [Technical Approach]\n* Tools/Algorithms: [Recommended Tech Stack]",
+    "example_input": "Application Scenario: A global collaborative document editor where users in different regions edit the same file simultaneously.",
+    "example_output": "* Recommended Model: Eventual Consistency (Causal).\n* Conflict Strategy: Use CRDTs (Conflict-free Replicated Data Types) for seamless merging.\n* Tools/Algorithms: LWW-Element-Set or Operation-based CRDTs; Redis or DynamoDB with region replication."
+  },
+  {
+    "id": "typescript-clean-pattern-refactorer",
+    "name": "TypeScript Clean Pattern Refactorer",
+    "description": "Transforms imperative JavaScript/TypeScript into functional, type-safe, and idiomatic code.",
+    "category": "Coding",
+    "tags": ["typescript", "clean-code", "functional-programming", "refactoring"],
+    "prompt": "Act as a Senior Developer.\n\nGiven [Code Snippet]:\n* Convert imperative logic to functional patterns.\n* Improve type safety and interface definitions.\n* Simplify logic for better maintainability.\n\nReturn response in this format:\n* Refactored Code: [Clean Code Block]\n* Improvements Made: [Bullet Points]",
+    "example_input": "function process(data) { let res = []; for(let i=0; i<data.length; i++) { if(data[i].type == 'user') res.push(data[i].name); } return res; }",
+    "example_output": "* Refactored Code: const getValidUserNames = (items: Item[]): string[] => items.filter(isUser).map(u => u.name);\n* Improvements Made: 1) Replaced manual for-loop with declarative filter/map. 2) Added explicit return and parameter types. 3) Improved naming for clarity."
+  },
+  {
+    "id": "react-performance-debugger",
+    "name": "React Performance Debugger",
+    "description": "Identifies and fixes unnecessary re-renders and memory leaks in React applications.",
+    "category": "Coding",
+    "tags": ["react", "performance", "hooks", "frontend"],
+    "prompt": "Act as a Frontend Performance Engineer.\n\nGiven [React Component]:\n* Identify bottlenecks like unnecessary re-renders or heavy computations.\n* Suggest optimizations via hooks or state restructuring.\n* Provide the optimized code structure.\n\nReturn response in this format:\n* Performance Issue: [Description of Bottleneck]\n* Optimization Strategy: [Actionable steps]\n* Optimized Code: [Code Block]",
+    "example_input": "A parent component that passes a large object as a prop to 50 items in a list, causing lag on every keystroke in a search bar.",
+    "example_output": "* Performance Issue: Prop Drilling and lack of memoization causing all 50 list items to re-render on parent state change.\n* Optimization Strategy: 1) Wrap child items in React.memo. 2) Move Search state to a local scope or use useMemo for the filtered list.\n* Optimized Code: const ListItem = React.memo(({ item }) => { ... });"
+  },
+  {
+    "id": "glassmorphism-ui-specialist",
+    "name": "Glassmorphism UI Specialist",
+    "description": "Provides precise CSS and design specs for glassmorphic interfaces.",
+    "category": "UI/UX",
+    "tags": ["css", "styling", "glassmorphism", "visual-design"],
+    "prompt": "Act as a UI Designer.\n\nGiven [UI Component]:\n* Define glassmorphic visual parameters (blur, transparency, borders).\n* Provide the exact CSS code for implementation.\n* Suggest a matching color palette.\n\nReturn response in this format:\n* CSS Implementation: [Code Block]\n* Color Palette: [HSL/HEX Values]\n* Visual Tip: [Design Best Practice]",
+    "example_input": "Component: A sleek floating navigation card for a futuristic dashboard.",
+    "example_output": "* CSS Implementation: background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(20px); border: 1px solid rgba(255, 255, 255, 0.2);\n* Color Palette: Accent: #00D1FF; Background: #0B0E14; Card Surface: rgba(255, 255, 255, 0.05).\n* Visual Tip: High-contrast text is critical when using transparency to ensure readability against dynamic backgrounds."
+  },
+  {
+    "id": "accessibility-design-auditor",
+    "name": "Accessibility (A11y) Design Auditor",
+    "description": "Audits UI components for WCAG 2.1 Level AA compliance.",
+    "category": "UI/UX",
+    "tags": ["accessibility", "wcag", "inclusive-design", "audit"],
+    "prompt": "Act as an Accessibility Specialist.\n\nGiven [UI Description/Code]:\n* Audit for WCAG 2.1 Level AA compliance.\n* Identify issues in contrast, focus states, and ARIA usage.\n* Provide clear, actionable fixes.\n\nReturn response in this format:\n* Compliance Issue: [Problem Description]\n* Severity: [High/Medium/Low]\n* Actionable Fix: [Required Correction]",
+    "example_input": "A primary action button with light grey text (#AAAAAA) on a white background and no hover state.",
+    "example_output": "* Compliance Issue: Insufficient color contrast for normal text (ratio 2.3:1).\n* Severity: High\n* Actionable Fix: Change text color to a darker grey (#595959) or update the button background to a primary brand color to reach a 4.5:1 ratio."
+  },
+  {
+    "id": "zero-trust-security-strategist",
+    "name": "Zero Trust Security Strategist",
+    "description": "Develops defensive strategies for internal systems based on Zero Trust principles.",
+    "category": "Cybersecurity",
+    "tags": ["security", "zero-trust", "iam", "network-security"],
+    "prompt": "Act as a Security Architect.\n\nGiven [Organization Context]:\n* Define a Zero Trust security roadmap.\n* Design micro-segmentation and IAM policies.\n* Outline continuous verification protocols.\n\nReturn response in this format:\n* Core Policy: [Access Control Logic]\n* Network Strategy: [Micro-segmentation Approach]\n* Verification Step: [Ongoing security check]",
+    "example_input": "Context: A remote-first software company with 200 employees using cloud-based productivity tools.",
+    "example_output": "* Core Policy: Role-Based Access Control (RBAC) with Just-In-Time (JIT) permissions.\n* Network Strategy: Remove VPNs; implement Identity-Aware Proxy (IAP) for all cloud resource access.\n* Verification Step: Continuous device posture assessment (OS version, encryption status) before ہر session authorization."
+  },
+  {
+    "id": "engineering-workflow-automator",
+    "name": "Engineering Workflow Automator",
+    "description": "Identifies SDLC bottlenecks and proposes automation to increase deployment frequency.",
+    "category": "Productivity",
+    "tags": ["devops", "workflow", "ci-cd", "efficiency"],
+    "prompt": "Act as a DevOps Engineer.\n\nGiven [Workflow Description]:\n* Identify bottlenecks in the development lifecycle.\n* Propose specific automation scripts or tool integrations.\n* Estimate the impact on team velocity.\n\nReturn response in this format:\n* Detected Bottleneck: [Description of friction point]\n* Proposed Automation: [Specific tool/script fix]\n* Expected Velocity Gain: [Improvement metric/description]",
+    "example_input": "Workflow: Developers manually update a changelog and run 2 hours of unit tests locally before pushing to production.",
+    "example_output": "* Detected Bottleneck: High manual overhead for documentation and slow local feedback loops.\n* Proposed Automation: 1) CI-based test parallelization. 2) Conventional commits with automated changelog generation.\n* Expected Velocity Gain: Reduces release cycle time by 40% and eliminates human error in versioning."
+  }
+]

@@ -1,6 +1,6 @@
 ---
 title: "Progress indicators | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/progress-indicators
+source: "https://skillo-ai.com"
 
 # Progress indicators
 

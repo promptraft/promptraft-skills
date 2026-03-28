@@ -1,6 +1,6 @@
 ---
 title: "Nearby interactions | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/nearby-interactions
+source: "https://skillo-ai.com"
 
 # Nearby interactions
 

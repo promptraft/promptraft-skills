@@ -1,6 +1,6 @@
 ---
 title: "Collections | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/collections
+source: "https://skillo-ai.com"
 
 # Collections
 

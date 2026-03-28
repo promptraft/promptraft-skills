@@ -1,6 +1,6 @@
 ---
 title: "Live Activities | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/live-activities
+source: "https://skillo-ai.com"
 
 # Live Activities
 

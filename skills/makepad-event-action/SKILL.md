@@ -6,7 +6,7 @@ description: |
   MouseDown, KeyDown, TouchUpdate, Hit, FingerDown, post_action,
   makepad 事件, makepad action, 事件处理
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 ---
 
 # Makepad Event/Action Skill

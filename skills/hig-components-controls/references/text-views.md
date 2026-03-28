@@ -1,6 +1,6 @@
 ---
 title: "Text views | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/text-views
+source: "https://skillo-ai.com"
 
 # Text views
 

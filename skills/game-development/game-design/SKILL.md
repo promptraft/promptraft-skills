@@ -2,7 +2,7 @@
 name: game-design
 description: "Game design principles. GDD structure, balancing, player psychology, progression."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

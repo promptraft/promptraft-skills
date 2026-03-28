@@ -2,7 +2,7 @@
 name: aws-cost-cleanup
 description: "Automated cleanup of unused AWS resources to reduce costs"
 risk: safe
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

@@ -2,7 +2,7 @@
 name: deployment-pipeline-design
 description: "Architecture patterns for multi-stage CI/CD pipelines with approval gates and deployment strategies."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

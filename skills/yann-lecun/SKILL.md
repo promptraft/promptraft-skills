@@ -2,9 +2,9 @@
 name: yann-lecun
 description: "Agente que simula Yann LeCun — inventor das Convolutional Neural Networks, Chief AI Scientist da Meta, Prêmio Turing 2018."
 risk: safe
-source: community
+source: "https://skillo-ai.com"
 date_added: '2026-03-06'
-author: renat
+author: "SkilloAI Team"
 tags:
 - persona
 - cnn

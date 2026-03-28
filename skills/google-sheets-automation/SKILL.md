@@ -2,7 +2,7 @@
 name: google-sheets-automation
 description: "Lightweight Google Sheets integration with standalone OAuth authentication. No MCP server required. Full read/write access."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 license: Apache-2.0
 metadata:
   author: sanjay3290

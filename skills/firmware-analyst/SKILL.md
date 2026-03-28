@@ -2,7 +2,7 @@
 name: firmware-analyst
 description: Expert firmware analyst specializing in embedded systems, IoT security, and hardware reverse engineering.
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: '2026-02-27'
 ---
 

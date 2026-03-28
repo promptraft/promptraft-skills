@@ -2,7 +2,7 @@
 name: schema-markup
 description: Design, validate, and optimize schema.org structured data for eligibility, correctness, and measurable SEO impact.
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: '2026-02-27'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Ratings and reviews | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/ratings-and-reviews
+source: "https://skillo-ai.com"
 
 # Ratings and reviews
 

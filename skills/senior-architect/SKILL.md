@@ -2,7 +2,7 @@
 name: senior-architect
 description: "Complete toolkit for senior architect with modern tools and best practices."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

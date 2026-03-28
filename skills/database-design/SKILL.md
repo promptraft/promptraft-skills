@@ -2,7 +2,7 @@
 name: database-design
 description: "Database design principles and decision-making. Schema design, indexing strategy, ORM selection, serverless databases."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

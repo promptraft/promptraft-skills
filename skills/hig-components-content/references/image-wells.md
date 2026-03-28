@@ -1,6 +1,6 @@
 ---
 title: "Image wells | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/image-wells
+source: "https://skillo-ai.com"
 
 # Image wells
 

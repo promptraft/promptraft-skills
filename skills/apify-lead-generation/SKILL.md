@@ -2,7 +2,7 @@
 name: apify-lead-generation
 description: "Scrape leads from multiple platforms using Apify Actors."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 ---
 
 # Lead Generation

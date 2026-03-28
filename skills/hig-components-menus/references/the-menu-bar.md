@@ -1,6 +1,6 @@
 ---
 title: "The menu bar | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/the-menu-bar
+source: "https://skillo-ai.com"
 
 # The menu bar
 

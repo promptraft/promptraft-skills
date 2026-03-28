@@ -1,6 +1,6 @@
 ---
 title: "Managing notifications | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/managing-notifications
+source: "https://skillo-ai.com"
 
 # Managing notifications
 

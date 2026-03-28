@@ -2,9 +2,9 @@
 name: comfyui-gateway
 description: REST API gateway for ComfyUI servers. Workflow management, job queuing, webhooks, caching, auth, rate limiting, and image delivery (URL + base64).
 risk: safe
-source: community
+source: "https://skillo-ai.com"
 date_added: '2026-03-06'
-author: renat
+author: "SkilloAI Team"
 tags:
 - comfyui
 - api-gateway

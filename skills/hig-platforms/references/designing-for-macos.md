@@ -1,6 +1,6 @@
 ---
 title: "Designing for macOS | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/designing-for-macos
+source: "https://skillo-ai.com"
 
 # Designing for macOS
 

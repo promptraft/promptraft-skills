@@ -1,6 +1,6 @@
 ---
 title: "Camera Control | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/camera-control
+source: "https://skillo-ai.com"
 
 # Camera Control
 

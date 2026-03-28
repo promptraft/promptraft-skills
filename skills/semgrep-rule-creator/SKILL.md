@@ -10,7 +10,7 @@ allowed-tools:
   - Grep
   - WebFetch
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 ---
 
 # Semgrep Rule Creator

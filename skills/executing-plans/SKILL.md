@@ -2,7 +2,7 @@
 name: executing-plans
 description: "Use when you have a written implementation plan to execute in a separate session with review checkpoints"
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

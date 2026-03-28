@@ -1,6 +1,6 @@
 ---
 title: "Edit menus | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/edit-menus
+source: "https://skillo-ai.com"
 
 # Edit menus
 

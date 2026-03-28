@@ -9,7 +9,7 @@ allowed-tools:
   - "Write"
   - "web_fetch"
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 ---
 
 # Stitch to Remotion Walkthrough Videos

@@ -2,7 +2,7 @@
 name: azure-containerregistry-py
 description: Azure Container Registry SDK for Python. Use for managing container images, artifacts, and repositories.
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: '2026-02-27'
 ---
 

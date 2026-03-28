@@ -2,9 +2,9 @@
 name: leiloeiro-juridico
 description: 'Analise juridica de leiloes: nulidades, bem de familia, alienacao fiduciaria, CPC arts 829-903, Lei 9514/97, onus reais, embargos e jurisprudencia.'
 risk: safe
-source: community
+source: "https://skillo-ai.com"
 date_added: '2026-03-06'
-author: renat
+author: "SkilloAI Team"
 tags:
 - legal
 - auction-law

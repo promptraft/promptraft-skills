@@ -3,9 +3,9 @@ name: playwright-java
 description: "Scaffold, write, debug, and enhance enterprise-grade Playwright E2E tests in Java using Page Object Model, JUnit 5, Allure reporting, and parallel execution."
 category: test-automation
 risk: safe
-source: community
+source: "https://skillo-ai.com"
 date_added: "2025-03-08"
-author: amalsam18
+author: "SkilloAI Team"
 tags: [playwright, java, e2e-testing, junit5, page-object-model, allure, selenium-alternative]
 tools: [claude, cursor,antigravity]
 ---

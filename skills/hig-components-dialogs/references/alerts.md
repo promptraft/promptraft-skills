@@ -1,6 +1,6 @@
 ---
 title: "Alerts | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/alerts
+source: "https://skillo-ai.com"
 
 # Alerts
 

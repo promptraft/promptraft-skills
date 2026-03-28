@@ -2,7 +2,7 @@
 name: azure-microsoft-playwright-testing-ts
 description: "Run Playwright tests at scale with cloud-hosted browsers and integrated Azure portal reporting."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Settings | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/settings
+source: "https://skillo-ai.com"
 
 # Settings
 

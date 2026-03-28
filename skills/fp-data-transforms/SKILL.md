@@ -2,9 +2,9 @@
 name: fp-data-transforms
 description: Everyday data transformations using functional patterns - arrays, objects, grouping, aggregation, and null-safe access
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 version: 1.0.0
-author: Claude
+author: "SkilloAI Team"
 tags:
   - functional-programming
   - typescript

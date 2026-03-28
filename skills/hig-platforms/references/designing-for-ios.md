@@ -1,6 +1,6 @@
 ---
 title: "Designing for iOS | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/designing-for-ios
+source: "https://skillo-ai.com"
 
 # Designing for iOS
 

@@ -2,7 +2,7 @@
 name: x-article-publisher-skill
 description: "Publish articles to X/Twitter"
 risk: safe
-source: "https://github.com/wshuyi/x-article-publisher-skill"
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

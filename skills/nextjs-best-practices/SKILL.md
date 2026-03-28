@@ -2,7 +2,7 @@
 name: nextjs-best-practices
 description: "Next.js App Router principles. Server Components, data fetching, routing patterns."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

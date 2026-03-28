@@ -2,7 +2,7 @@
 name: linear-claude-skill
 description: "Manage Linear issues, projects, and teams"
 risk: safe
-source: "https://github.com/wrsmith108/linear-claude-skill"
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

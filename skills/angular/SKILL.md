@@ -2,7 +2,7 @@
 name: angular
 description: Modern Angular (v20+) expert with deep knowledge of Signals, Standalone Components, Zoneless applications, SSR/Hydration, and reactive patterns.
 risk: safe
-source: self
+source: "https://skillo-ai.com"
 date_added: '2026-02-27'
 ---
 

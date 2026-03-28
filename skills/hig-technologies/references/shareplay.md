@@ -1,6 +1,6 @@
 ---
 title: "SharePlay | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/shareplay
+source: "https://skillo-ai.com"
 
 # SharePlay
 

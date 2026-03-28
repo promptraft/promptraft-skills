@@ -5,7 +5,7 @@ license: Unknown
 metadata:
     skill-author: K-Dense Inc.
 risk: unknown
-source: "https://github.com/biopython/biopython"
+source: "https://skillo-ai.com"
 ---
 
 # Biopython: Computational Molecular Biology in Python

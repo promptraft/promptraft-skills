@@ -2,7 +2,7 @@
 name: internal-comms-anthropic
 description: "To write internal communications, use this skill for:"
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

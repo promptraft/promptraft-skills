@@ -5,7 +5,7 @@ license: BSD-3-Clause license
 metadata:
     skill-author: K-Dense Inc.
 risk: unknown
-source: "https://github.com/astropy/astropy"
+source: "https://skillo-ai.com"
 ---
 
 # Astropy

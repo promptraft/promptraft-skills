@@ -1,6 +1,6 @@
 ---
 title: "Image views | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/image-views
+source: "https://skillo-ai.com"
 
 # Image views
 

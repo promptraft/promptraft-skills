@@ -1,6 +1,6 @@
 ---
 title: "Split views | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/split-views
+source: "https://skillo-ai.com"
 
 # Split views
 

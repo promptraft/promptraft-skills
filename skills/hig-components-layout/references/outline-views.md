@@ -1,6 +1,6 @@
 ---
 title: "Outline views | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/outline-views
+source: "https://skillo-ai.com"
 
 # Outline views
 

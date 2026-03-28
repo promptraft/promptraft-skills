@@ -6,7 +6,7 @@ description: |
   "<Widget>", "Foo = { }", makepad object, makepad property,
   makepad DSL 语法, makepad 继承, makepad 原型, 如何定义 makepad 组件
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 ---
 
 # Makepad DSL Skill

@@ -2,7 +2,7 @@
 name: hosted-agents
 description: Build background agents in sandboxed environments. Use for hosted coding agents, sandboxed VMs, Modal sandboxes, and remote coding environments.
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 ---
 
 # Hosted Agent Infrastructure

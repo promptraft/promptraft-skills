@@ -2,7 +2,7 @@
 name: game-development
 description: "Game development orchestrator. Routes to platform-specific skills based on project needs."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

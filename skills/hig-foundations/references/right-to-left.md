@@ -1,6 +1,6 @@
 ---
 title: "Right to left | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/right-to-left
+source: "https://skillo-ai.com"
 
 # Right to left
 

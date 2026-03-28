@@ -1,6 +1,6 @@
 ---
 title: "ShazamKit | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/shazamkit
+source: "https://skillo-ai.com"
 
 # ShazamKit
 

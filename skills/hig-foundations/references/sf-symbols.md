@@ -1,6 +1,6 @@
 ---
 title: "SF Symbols | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/sf-symbols
+source: "https://skillo-ai.com"
 
 # SF Symbols
 

@@ -1,6 +1,6 @@
 ---
 title: "Digit entry views | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/digit-entry-views
+source: "https://skillo-ai.com"
 
 # Digit entry views
 

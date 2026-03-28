@@ -2,7 +2,7 @@
 name: ad-creative
 description: "Create, iterate, and scale paid ad creative for Google Ads, Meta, LinkedIn, TikTok, and similar platforms. Use when generating headlines, descriptions, primary text, or large sets of ad variations for testing and performance optimization."
 risk: unknown
-source: "https://github.com/coreyhaines31/marketingskills"
+source: "https://skillo-ai.com"
 date_added: "2026-03-21"
 metadata:
   version: 1.1.0

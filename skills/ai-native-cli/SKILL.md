@@ -2,7 +2,7 @@
 name: ai-native-cli
 description: "Design spec with 98 rules for building CLI tools that AI agents can safely use. Covers structured JSON output, error handling, input contracts, safety guardrails, exit codes, and agent self-description."
 risk: safe
-source: https://github.com/ChaosRealmsAI/agent-cli-spec
+source: "https://skillo-ai.com"
 date_added: "2026-03-15"
 ---
 

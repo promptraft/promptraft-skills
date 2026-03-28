@@ -2,7 +2,7 @@
 name: data-storytelling
 description: "Transform raw data into compelling narratives that drive decisions and inspire action."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

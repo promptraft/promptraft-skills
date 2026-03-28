@@ -2,7 +2,7 @@
 name: sharp-edges
 description: sharp-edges
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 ---
 
 ---

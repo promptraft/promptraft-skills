@@ -3,9 +3,9 @@ name: seek-and-analyze-video
 description: "Seek and analyze video content using Memories.ai Large Visual Memory Model for persistent video intelligence"
 category: data-ai
 risk: safe
-source: "https://github.com/kennyzheng-builds/seek-and-analyze-video"
+source: "https://skillo-ai.com"
 date_added: "2026-03-09"
-author: kennyzheng-builds
+author: "SkilloAI Team"
 tags: [video, ai, memories, social-media, youtube, tiktok, analysis]
 tools: [claude, cursor, gemini]
 ---

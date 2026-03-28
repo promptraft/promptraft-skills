@@ -5,7 +5,7 @@ license: 3-clause BSD license
 metadata:
     skill-author: K-Dense Inc.
 risk: unknown
-source: "https://github.com/networkx/networkx"
+source: "https://skillo-ai.com"
 ---
 
 # NetworkX

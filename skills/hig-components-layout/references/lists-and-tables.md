@@ -1,6 +1,6 @@
 ---
 title: "Lists and tables | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/lists-and-tables
+source: "https://skillo-ai.com"
 
 # Lists and tables
 

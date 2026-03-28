@@ -2,7 +2,7 @@
 name: expo-api-routes
 description: Guidelines for creating API routes in Expo Router with EAS Hosting
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 version: 1.0.0
 license: MIT
 ---

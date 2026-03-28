@@ -2,7 +2,7 @@
 name: comprehensive-review-full-review
 description: "Use when working with comprehensive review full review"
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

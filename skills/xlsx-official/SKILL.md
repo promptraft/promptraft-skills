@@ -2,7 +2,7 @@
 name: xlsx-official
 description: "Unless otherwise stated by the user or existing template"
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

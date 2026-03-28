@@ -2,9 +2,9 @@
 name: fp-async
 description: Practical async patterns using TaskEither - clean pipelines instead of try/catch hell, with real API examples
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 version: 1.0.0
-author: kadu
+author: "SkilloAI Team"
 tags:
   - fp-ts
   - typescript

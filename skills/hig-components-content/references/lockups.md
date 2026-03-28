@@ -1,6 +1,6 @@
 ---
 title: "Lockups | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/lockups
+source: "https://skillo-ai.com"
 
 # Lockups
 

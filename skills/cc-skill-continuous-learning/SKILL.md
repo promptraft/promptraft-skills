@@ -2,7 +2,7 @@
 name: cc-skill-continuous-learning
 description: "Development skill from everything-claude-code"
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

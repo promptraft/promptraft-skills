@@ -3,9 +3,9 @@ name: bdistill-behavioral-xray
 description: "X-ray any AI model's behavioral patterns — refusal boundaries, hallucination tendencies, reasoning style, formatting defaults. No API key needed."
 category: ai-testing
 risk: safe
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-03-20"
-author: FrancyJGLisboa
+author: "SkilloAI Team"
 tags: [ai, testing, behavioral-analysis, model-evaluation, red-team, compliance, mcp]
 tools: [claude, cursor, codex, copilot]
 ---

@@ -2,7 +2,7 @@
 name: saga-orchestration
 description: "Patterns for managing distributed transactions and long-running business processes."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

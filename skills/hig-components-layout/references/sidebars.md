@@ -1,6 +1,6 @@
 ---
 title: "Sidebars | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/sidebars
+source: "https://skillo-ai.com"
 
 # Sidebars
 

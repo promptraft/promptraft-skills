@@ -2,7 +2,7 @@
 name: powershell-windows
 description: "PowerShell Windows patterns. Critical pitfalls, operator syntax, error handling."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

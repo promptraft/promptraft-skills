@@ -2,7 +2,7 @@
 name: pypict-skill
 description: "Pairwise test generation"
 risk: safe
-source: "https://github.com/omkamal/pypict-claude-skill/blob/main/SKILL.md"
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

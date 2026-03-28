@@ -2,7 +2,7 @@
 name: screen-reader-testing
 description: "Practical guide to testing web applications with screen readers for comprehensive accessibility validation."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

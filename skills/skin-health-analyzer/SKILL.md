@@ -2,7 +2,7 @@
 name: skin-health-analyzer
 description: Analyze skin health data, identify skin problem patterns, assess skin health status. Supports correlation analysis with nutrition, chronic diseases, and medication data.
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 ---
 
 # 皮肤健康分析技能

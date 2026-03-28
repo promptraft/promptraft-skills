@@ -2,7 +2,7 @@
 name: cc-skill-clickhouse-io
 description: "ClickHouse database patterns, query optimization, analytics, and data engineering best practices for high-performance analytical workloads."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

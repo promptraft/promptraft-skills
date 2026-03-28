@@ -2,7 +2,7 @@
 name: pydantic-models-py
 description: "Create Pydantic models following the multi-model pattern for clean API contracts."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

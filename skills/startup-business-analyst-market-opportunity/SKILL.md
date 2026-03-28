@@ -6,7 +6,7 @@ description: 'Generate comprehensive market opportunity analysis with TAM/SAM/SO
 
   '
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: '2026-02-27'
 ---
 

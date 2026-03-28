@@ -2,8 +2,8 @@
 name: aws-penetration-testing
 description: "Provide comprehensive techniques for penetration testing AWS cloud environments. Covers IAM enumeration, privilege escalation, SSRF to metadata endpoint, S3 bucket exploitation, Lambda code extraction, and persistence techniques for red team operations."
 risk: unknown
-source: community
-author: zebbern
+source: "https://skillo-ai.com"
+author: "SkilloAI Team"
 date_added: "2026-02-27"
 ---
 

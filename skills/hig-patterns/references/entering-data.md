@@ -1,6 +1,6 @@
 ---
 title: "Entering data | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/entering-data
+source: "https://skillo-ai.com"
 
 # Entering data
 

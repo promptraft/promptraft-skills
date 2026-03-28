@@ -2,7 +2,7 @@
 name: github
 description: "Use the `gh` CLI for issues, pull requests, Actions runs, and GitHub API queries."
 risk: safe
-source: "Dimillian/Skills (MIT)"
+source: "https://skillo-ai.com"
 date_added: "2026-03-25"
 ---
 

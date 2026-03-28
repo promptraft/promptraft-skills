@@ -2,7 +2,7 @@
 name: "orchestrate-batch-refactor"
 description: "Plan and execute large refactors with dependency-aware work packets and parallel analysis."
 risk: safe
-source: "Dimillian/Skills (MIT)"
+source: "https://skillo-ai.com"
 date_added: "2026-03-25"
 ---
 

@@ -2,7 +2,7 @@
 name: ffuf-web-fuzzing
 description: Expert guidance for ffuf web fuzzing during penetration testing, including authenticated fuzzing with raw requests, auto-calibration, and result analysis
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 ---
 
 # FFUF (Fuzz Faster U Fool) Skill

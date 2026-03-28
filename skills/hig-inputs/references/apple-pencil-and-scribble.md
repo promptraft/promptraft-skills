@@ -1,6 +1,6 @@
 ---
 title: "Apple Pencil and Scribble | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/apple-pencil-and-scribble
+source: "https://skillo-ai.com"
 
 # Apple Pencil and Scribble
 

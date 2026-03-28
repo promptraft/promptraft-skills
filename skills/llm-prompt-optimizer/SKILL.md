@@ -2,7 +2,7 @@
 name: llm-prompt-optimizer
 description: "Use when improving prompts for any LLM. Applies proven prompt engineering techniques to boost output quality, reduce hallucinations, and cut token usage."
 risk: safe
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-03-04"
 ---
 

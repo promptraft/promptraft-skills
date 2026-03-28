@@ -1,6 +1,6 @@
 ---
 title: "Path controls | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/path-controls
+source: "https://skillo-ai.com"
 
 # Path controls
 

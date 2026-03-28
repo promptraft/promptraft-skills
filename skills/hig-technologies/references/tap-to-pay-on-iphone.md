@@ -1,6 +1,6 @@
 ---
 title: "Tap to Pay on iPhone | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/tap-to-pay-on-iphone
+source: "https://skillo-ai.com"
 
 # Tap to Pay on iPhone
 

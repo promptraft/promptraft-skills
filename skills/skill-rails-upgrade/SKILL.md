@@ -2,7 +2,7 @@
 name: skill-rails-upgrade
 description: "Analyze Rails apps and provide upgrade assessments"
 risk: safe
-source: "https://github.com/robzolkos/skill-rails-upgrade"
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

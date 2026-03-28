@@ -1,6 +1,6 @@
 ---
 title: "In-app purchase | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/in-app-purchase
+source: "https://skillo-ai.com"
 
 # In-app purchase
 

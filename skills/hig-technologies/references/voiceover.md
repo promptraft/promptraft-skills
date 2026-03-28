@@ -1,6 +1,6 @@
 ---
 title: "VoiceOver | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/voiceover
+source: "https://skillo-ai.com"
 
 # VoiceOver
 

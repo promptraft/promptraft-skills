@@ -1,6 +1,6 @@
 ---
 title: "NFC | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/nfc
+source: "https://skillo-ai.com"
 
 # NFC
 

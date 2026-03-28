@@ -8,7 +8,7 @@ description: 'Creates comprehensive content outlines and topic clusters for SEO.
 
   '
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: '2026-02-27'
 ---
 

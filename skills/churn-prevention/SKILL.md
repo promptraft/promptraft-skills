@@ -2,7 +2,7 @@
 name: churn-prevention
 description: "Reduce voluntary and involuntary churn with cancel flows, save offers, dunning, win-back tactics, and retention strategy. Use when users are cancelling, failed payments are rising, or subscription retention needs improvement."
 risk: unknown
-source: "https://github.com/coreyhaines31/marketingskills"
+source: "https://skillo-ai.com"
 date_added: "2026-03-21"
 metadata:
   version: 1.1.0

@@ -2,7 +2,7 @@
 name: claude-win11-speckit-update-skill
 description: "Windows 11 system management"
 risk: safe
-source: "https://github.com/NotMyself/claude-win11-speckit-update-skill"
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

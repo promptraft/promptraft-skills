@@ -5,7 +5,7 @@ license: Unknown
 metadata:
     skill-author: K-Dense Inc.
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 ---
 
 # PubMed Database

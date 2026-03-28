@@ -1,6 +1,6 @@
 ---
 title: "Labels | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/labels
+source: "https://skillo-ai.com"
 
 # Labels
 

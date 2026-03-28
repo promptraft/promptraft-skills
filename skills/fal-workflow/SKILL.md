@@ -2,7 +2,7 @@
 name: fal-workflow
 description: "Generate workflow JSON files for chaining AI models"
 risk: safe
-source: "https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-workflow/SKILL.md"
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

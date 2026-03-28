@@ -2,7 +2,7 @@
 name: linkedin-cli
 description: "Use when automating LinkedIn via CLI: fetch profiles, search people/companies, send messages, manage connections, create posts, and Sales Navigator."
 risk: safe
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

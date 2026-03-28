@@ -2,7 +2,7 @@
 name: n8n-expression-syntax
 description: Validate n8n expression syntax and fix common errors. Use when writing n8n expressions, using {{}} syntax, accessing $json/$node variables, troubleshooting expression errors, or working with webhook data in workflows.
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 ---
 
 # n8n Expression Syntax

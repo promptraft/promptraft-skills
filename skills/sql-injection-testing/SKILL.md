@@ -2,8 +2,8 @@
 name: sql-injection-testing
 description: "Execute comprehensive SQL injection vulnerability assessments on web applications to identify database security flaws, demonstrate exploitation techniques, and validate input sanitization mechanisms."
 risk: unknown
-source: community
-author: zebbern
+source: "https://skillo-ai.com"
+author: "SkilloAI Team"
 date_added: "2026-02-27"
 ---
 

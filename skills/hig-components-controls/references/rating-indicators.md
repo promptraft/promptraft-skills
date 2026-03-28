@@ -1,6 +1,6 @@
 ---
 title: "Rating indicators | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/rating-indicators
+source: "https://skillo-ai.com"
 
 # Rating indicators
 

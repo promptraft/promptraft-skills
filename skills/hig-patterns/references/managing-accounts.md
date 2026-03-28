@@ -1,6 +1,6 @@
 ---
 title: "Managing accounts | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/managing-accounts
+source: "https://skillo-ai.com"
 
 # Managing accounts
 

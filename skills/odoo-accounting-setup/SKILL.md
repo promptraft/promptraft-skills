@@ -2,7 +2,7 @@
 name: odoo-accounting-setup
 description: "Expert guide for configuring Odoo Accounting: chart of accounts, journals, fiscal positions, taxes, payment terms, and bank reconciliation."
 risk: safe
-source: "self"
+source: "https://skillo-ai.com"
 ---
 
 # Odoo Accounting Setup

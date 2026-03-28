@@ -3,9 +3,9 @@ name: lex
 description: "Centralized 'Truth Engine' for cross-jurisdictional legal context (US, EU, CA) and contract scaffolding."
 category: business
 risk: safe
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-03-10"
-author: Svobikl
+author: "SkilloAI Team"
 tags: [legal, context, cross-jurisdictional, compliance, scaffolding]
 tools: [claude, cursor, gemini]
 ---

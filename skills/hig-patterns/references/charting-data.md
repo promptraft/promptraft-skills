@@ -1,6 +1,6 @@
 ---
 title: "Charting data | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/charting-data
+source: "https://skillo-ai.com"
 
 # Charting data
 

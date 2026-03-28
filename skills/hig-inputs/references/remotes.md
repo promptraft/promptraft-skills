@@ -1,6 +1,6 @@
 ---
 title: "Remotes | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/remotes
+source: "https://skillo-ai.com"
 
 # Remotes
 

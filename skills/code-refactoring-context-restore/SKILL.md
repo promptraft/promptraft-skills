@@ -2,7 +2,7 @@
 name: code-refactoring-context-restore
 description: "Use when working with code refactoring context restore"
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

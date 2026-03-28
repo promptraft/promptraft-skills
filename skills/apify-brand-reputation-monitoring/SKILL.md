@@ -2,7 +2,7 @@
 name: apify-brand-reputation-monitoring
 description: "Scrape reviews, ratings, and brand mentions from multiple platforms using Apify Actors."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 ---
 
 # Brand Reputation Monitoring

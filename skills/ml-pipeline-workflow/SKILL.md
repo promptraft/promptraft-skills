@@ -2,7 +2,7 @@
 name: ml-pipeline-workflow
 description: "Complete end-to-end MLOps pipeline orchestration from data preparation through model deployment."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

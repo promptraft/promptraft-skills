@@ -1,6 +1,6 @@
 ---
 title: "Photo editing | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/photo-editing
+source: "https://skillo-ai.com"
 
 # Photo editing
 

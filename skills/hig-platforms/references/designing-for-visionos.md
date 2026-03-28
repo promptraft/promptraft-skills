@@ -1,6 +1,6 @@
 ---
 title: "Designing for visionOS | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/designing-for-visionos
+source: "https://skillo-ai.com"
 
 # Designing for visionOS
 

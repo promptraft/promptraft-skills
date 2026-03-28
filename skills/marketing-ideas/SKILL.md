@@ -2,7 +2,7 @@
 name: marketing-ideas
 description: "Provide proven marketing strategies and growth ideas for SaaS and software products, prioritized using a marketing feasibility scoring system."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 # Marketing Ideas for SaaS (with Feasibility Scoring)

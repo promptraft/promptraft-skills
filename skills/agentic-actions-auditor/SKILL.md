@@ -10,7 +10,7 @@ description: >
   input reaches.
   AI agents running in CI/CD pipelines.
 risk: safe
-source: community
+source: "https://skillo-ai.com"
 date_added: 2026-03-18
 ---
 

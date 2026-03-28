@@ -2,7 +2,7 @@
 name: fix-review
 description: "Verify fix commits address audit findings without new bugs"
 risk: safe
-source: "https://github.com/trailofbits/skills/tree/main/plugins/fix-review"
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

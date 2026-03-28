@@ -1,6 +1,6 @@
 ---
 title: "Spatial layout | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/spatial-layout
+source: "https://skillo-ai.com"
 
 # Spatial layout
 

@@ -1,6 +1,6 @@
 ---
 title: "Drag and drop | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/drag-and-drop
+source: "https://skillo-ai.com"
 
 # Drag and drop
 

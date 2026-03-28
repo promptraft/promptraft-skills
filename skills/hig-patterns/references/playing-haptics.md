@@ -1,6 +1,6 @@
 ---
 title: "Playing haptics | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/playing-haptics
+source: "https://skillo-ai.com"
 
 # Playing haptics
 

@@ -2,7 +2,7 @@
 name: receiving-code-review
 description: "Code review requires technical evaluation, not emotional performance."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

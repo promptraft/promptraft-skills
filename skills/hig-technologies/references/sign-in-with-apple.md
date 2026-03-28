@@ -1,6 +1,6 @@
 ---
 title: "Sign in with Apple | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple
+source: "https://skillo-ai.com"
 
 # Sign in with Apple
 

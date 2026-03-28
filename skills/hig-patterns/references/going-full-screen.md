@@ -1,6 +1,6 @@
 ---
 title: "Going full screen | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/going-full-screen
+source: "https://skillo-ai.com"
 
 # Going full screen
 

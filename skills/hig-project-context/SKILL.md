@@ -2,7 +2,7 @@
 name: hig-project-context
 description: Create or update a shared Apple design context document that other HIG skills use to tailor guidance.
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: '2026-02-27'
 ---
 

@@ -2,7 +2,7 @@
 name: pc-games
 description: "PC and console game development principles. Engine selection, platform features, optimization strategies."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

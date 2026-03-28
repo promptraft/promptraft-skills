@@ -2,7 +2,7 @@
 name: tdd-workflows-tdd-cycle
 description: "Use when working with tdd workflows tdd cycle"
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

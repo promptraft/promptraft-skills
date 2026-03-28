@@ -8,7 +8,7 @@ description: 'Master of defensive Bash scripting for production automation, CI/C
 
   '
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: '2026-02-27'
 ---
 ## Use this skill when

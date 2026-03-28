@@ -1,6 +1,6 @@
 ---
 title: "Collaboration and sharing | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/collaboration-and-sharing
+source: "https://skillo-ai.com"
 
 # Collaboration and sharing
 

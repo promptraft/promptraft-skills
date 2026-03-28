@@ -1,6 +1,6 @@
 ---
 title: "CarPlay | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/carplay
+source: "https://skillo-ai.com"
 
 # CarPlay
 

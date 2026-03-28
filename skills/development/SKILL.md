@@ -3,7 +3,7 @@ name: development
 description: "Comprehensive web, mobile, and backend development workflow bundling frontend, backend, full-stack, and mobile development skills for end-to-end application delivery."
 category: workflow-bundle
 risk: safe
-source: personal
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

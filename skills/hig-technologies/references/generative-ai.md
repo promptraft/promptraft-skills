@@ -1,6 +1,6 @@
 ---
 title: "Generative AI | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/generative-ai
+source: "https://skillo-ai.com"
 
 # Generative AI
 

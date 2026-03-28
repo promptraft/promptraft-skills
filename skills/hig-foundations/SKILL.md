@@ -2,7 +2,7 @@
 name: hig-foundations
 description: Apple Human Interface Guidelines design foundations.
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: '2026-02-27'
 ---
 

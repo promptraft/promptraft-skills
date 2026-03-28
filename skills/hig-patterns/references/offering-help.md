@@ -1,6 +1,6 @@
 ---
 title: "Offering help | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/offering-help
+source: "https://skillo-ai.com"
 
 # Offering help
 

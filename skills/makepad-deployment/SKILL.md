@@ -7,7 +7,7 @@ description: |
   distribution, installer, .deb, .dmg, .nsis,
   GitHub Actions, CI, action, marketplace
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 ---
 
 # Makepad Packaging & Deployment

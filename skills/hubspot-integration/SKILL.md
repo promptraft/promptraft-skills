@@ -2,7 +2,7 @@
 name: hubspot-integration
 description: "Authentication for single-account integrations"
 risk: unknown
-source: "vibeship-spawner-skills (Apache 2.0)"
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

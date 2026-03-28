@@ -3,9 +3,9 @@ name: hono
 description: "Build ultra-fast web APIs and full-stack apps with Hono — runs on Cloudflare Workers, Deno, Bun, Node.js, and any WinterCG-compatible runtime."
 category: backend
 risk: safe
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-03-18"
-author: suhaibjanjua
+author: "SkilloAI Team"
 tags: [hono, edge, cloudflare-workers, bun, deno, api, typescript, web-standards]
 tools: [claude, cursor, gemini]
 ---

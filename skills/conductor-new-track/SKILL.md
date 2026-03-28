@@ -2,7 +2,7 @@
 name: conductor-new-track
 description: "Create a new track with specification and phased implementation plan"
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

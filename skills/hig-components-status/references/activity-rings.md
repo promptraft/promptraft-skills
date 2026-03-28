@@ -1,6 +1,6 @@
 ---
 title: "Activity rings | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/activity-rings
+source: "https://skillo-ai.com"
 
 # Activity rings
 

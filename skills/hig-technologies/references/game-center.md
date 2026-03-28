@@ -1,6 +1,6 @@
 ---
 title: "Game Center | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/game-center
+source: "https://skillo-ai.com"
 
 # Game Center
 

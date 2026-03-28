@@ -2,7 +2,7 @@
 name: tdd-workflow
 description: "Test-Driven Development workflow principles. RED-GREEN-REFACTOR cycle."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

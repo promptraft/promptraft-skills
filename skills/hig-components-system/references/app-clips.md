@@ -1,6 +1,6 @@
 ---
 title: "App Clips | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/app-clips
+source: "https://skillo-ai.com"
 
 # App Clips
 

@@ -5,7 +5,7 @@ allowed-tools:
   - "Read"
   - "Write"
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 ---
 
 # Enhance Prompt for Stitch

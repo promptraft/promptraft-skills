@@ -2,7 +2,7 @@
 name: webapp-testing
 description: "To test local web applications, write native Python Playwright scripts."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

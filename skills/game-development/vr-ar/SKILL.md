@@ -2,7 +2,7 @@
 name: vr-ar
 description: "VR/AR development principles. Comfort, interaction, performance requirements."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

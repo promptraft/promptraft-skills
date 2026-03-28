@@ -1,6 +1,6 @@
 ---
 title: "Writing | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/writing
+source: "https://skillo-ai.com"
 
 # Writing
 

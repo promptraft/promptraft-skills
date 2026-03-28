@@ -1,6 +1,6 @@
 ---
 title: "Gestures | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/gestures
+source: "https://skillo-ai.com"
 
 # Gestures
 

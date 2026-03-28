@@ -2,7 +2,7 @@
 name: error-debugging-multi-agent-review
 description: "Use when working with error debugging multi agent review"
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

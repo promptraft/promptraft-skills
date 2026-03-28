@@ -2,7 +2,7 @@
 name: brand-guidelines-community
 description: "To access Anthropic's official brand identity and style resources, use this skill."
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

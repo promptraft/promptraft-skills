@@ -6,7 +6,7 @@ description: |
   makepad project setup, makepad hello world, "how to create makepad app",
   makepad 入门, 创建 makepad 应用, makepad 教程, makepad 项目结构
 risk: unknown
-source: "https://github.com/makepad/makepad"
+source: "https://skillo-ai.com"
 ---
 
 # Makepad Basics Skill

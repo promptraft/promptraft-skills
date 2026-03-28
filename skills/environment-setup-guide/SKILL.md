@@ -2,7 +2,7 @@
 name: environment-setup-guide
 description: "Guide developers through setting up development environments with proper tools, dependencies, and configurations"
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

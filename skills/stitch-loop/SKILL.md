@@ -8,7 +8,7 @@ allowed-tools:
   - "Write"
   - "Bash"
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 ---
 
 # Stitch Build Loop

@@ -3,7 +3,7 @@ name: writing-skills
 description: "Use when creating, updating, or improving agent skills."
 category: meta
 risk: unknown
-source: community
+source: "https://skillo-ai.com"
 date_added: "2026-02-27"
 ---
 

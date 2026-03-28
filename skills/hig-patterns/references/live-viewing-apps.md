@@ -1,6 +1,6 @@
 ---
 title: "Live-viewing apps | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/live-viewing-apps
+source: "https://skillo-ai.com"
 
 # Live-viewing apps
 

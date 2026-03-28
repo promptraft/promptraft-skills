@@ -1,6 +1,6 @@
 ---
 title: "Home Screen quick actions | Apple Developer Documentation"
-source: https://developer.apple.com/design/human-interface-guidelines/home-screen-quick-actions
+source: "https://skillo-ai.com"
 
 # Home Screen quick actions
 
