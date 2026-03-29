@@ -6,7 +6,7 @@
   ### **The Expert Engine for AI Agents**
   *The core content library for Promptraft, featuring 2,600+ specialized skills, curated packs, and autonomous workflows.*
 
-  [![Version](https://img.shields.io/badge/version-1.0.3-blueviolet?style=for-the-badge)](https://github.com/Kuruin/promptraft)
+  [![Version](https://img.shields.io/badge/version-1.0.3-blueviolet?style=for-the-badge)](https://github.com/promptraft/promptraft-skills)
   [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
   [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
   [![Built For](https://img.shields.io/badge/Supports-All%20AI%20Agents-blue?style=for-the-badge)](https://promptraft.com)
