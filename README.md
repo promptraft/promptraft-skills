@@ -1,12 +1,12 @@
 <div align="center">
   <img src="docs/assets/hero-banner.png" alt="Promptraft Hero Banner" width="1000px">
 
-  # 🧠 Promptraft 
+  # 🧠 Promptraft Skills
 
-  ### **The Universal AI Expert System**
-  *Transform your IDE into a powerhouse with 2,600+ specialized skills, curated packs, and autonomous workflows.*
+  ### **The Expert Engine for AI Agents**
+  *The core content library for Promptraft, featuring 2,600+ specialized skills, curated packs, and autonomous workflows.*
 
-  [![Version](https://img.shields.io/badge/version-1.0.3-blueviolet?style=for-the-badge)](https://github.com/promptraft/agent-skills)
+  [![Version](https://img.shields.io/badge/version-1.0.3-blueviolet?style=for-the-badge)](https://github.com/Kuruin/promptraft)
   [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
   [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
   [![Built For](https://img.shields.io/badge/Supports-All%20AI%20Agents-blue?style=for-the-badge)](https://promptraft.com)
@@ -84,13 +84,19 @@ promptraft run "use the sqlite mcp to analyze user data"
 
 ---
 
-## 🌟 Contributing
+---
 
-Promptraft is a community-driven expert system. We welcome new skills, packs, and workflow optimizations!
+## 🛠️ Developer Setup & Data Integration
 
-1.  Check out our **[Contributing Guide](CONTRIBUTING.md)**.
-2.  Use the `@skill-creator` skill to build your own expertise.
-3.  Submit a Pull Request to share your knowledge with the world.
+If you are a developer using this repository to power the **Promptraft App** locally, please follow these guidelines to ensure stable data synchronization.
+
+> [!IMPORTANT]
+> **Avoid Phantom Submodules**: Do NOT run `git add` on this entire folder if it is nested inside another Git repository (like the main Promptraft App). This can create untracked "gitlink" markers that break Vercel/CI builds.
+> Instead, ensure this directory is listed in your parent repository's `.gitignore`.
+
+1. **Local Clone**: Clone this repository as a standalone folder on your machine.
+2. **Path Mapping**: Point your `PROMPTRAFT_DATA_REPO` or local library path to this directory.
+3. **Fetching Updates**: Use `git pull` in this directory to sync the latest skills and workflows.
 
 ---
 
